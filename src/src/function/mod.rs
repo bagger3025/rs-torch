@@ -1,4 +1,3 @@
-pub mod MSELoss;
 pub mod linear;
 
 pub trait Function {
